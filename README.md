@@ -13,6 +13,9 @@ I am a passionate software engineer adept at crafting enterprise solutions acros
 - Linux
 
 **Languages:**
+- C
+- C++
+- C#
 - Java
 - Python
 - JavaScript
