@@ -1,7 +1,7 @@
 # Welcome to My GitHub
 
 ## About Me
-I am a passionate software engineer adept at crafting enterprise solutions across the vast technology ecosystem, encompassing web, mobile, and desktop environments. My expertise spans various industry domains, and I specialize in harnessing diverse technologies to bridge the gaps between platforms, fostering seamless user experiences and delivering impactful results.
+I am a passionate software engineer adept at crafting E2E enterprise solutions across the vast technology ecosystem, encompassing web, mobile, and desktop environments. My expertise spans various industry domains, and I specialize in harnessing diverse technologies to bridge the gaps between platforms, fostering seamless user experiences and delivering impactful results.
 
 ---
 
@@ -23,9 +23,11 @@ I am a passionate software engineer adept at crafting enterprise solutions acros
 - Swift
 
 **Web Frameworks:**
-- Django
-- Flask
-- Spring
+- Django (Backend Framework)
+- Flask (Backend Framework)
+- Spring (Backend Framework)
+  
+- Angular (Frontend Framework)
 
 **Application Servers:**
 - Oracle GlassFish Server
