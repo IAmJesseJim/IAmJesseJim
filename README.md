@@ -10,6 +10,7 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 **Operating Environments:**
 - macOS
 - Windows
+- Kali Linux
 - Linux
 
 **Languages:**
@@ -28,6 +29,9 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 - Spring (Backend Framework)
   
 - Angular (Frontend Framework)
+
+**Libraries:**
+- React
 
 **Application Servers:**
 - Oracle GlassFish Server
