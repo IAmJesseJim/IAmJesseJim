@@ -39,11 +39,17 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 </p>
 
 **Libraries:**
-- React
+
+<p align="center">
+  <img src="assets/icons/react.svg" width="42" alt="React"/>
+</p>
 
 **Application Servers:**
-- Oracle GlassFish Server
-- Tomcat
+
+<p align="center">
+  <img src="assets/icons/glassfish.svg" width="42" alt="Oracle GlassFish Server"/>
+  <img src="assets/icons/tomcat.svg" width="42" alt="Tomcat"/>
+</p>
 
 **Web Servers:**
 - Apache HTTP Server
