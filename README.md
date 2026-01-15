@@ -70,6 +70,13 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 - AWS
 - Digital Ocean
 
+<p align="center">
+  <img src="assets/icons/googleCloud.svg" width="42" alt="Google Cloud Platform"/>
+  <img src="assets/icons/aws.svg" width="42" alt="Amazon Web Services"/>
+  <img src="assets/icons/azure.svg" width="42" alt="Azure"/>
+  <img src="assets/icons/digitalOcean.svg" width="42" alt="Digital Ocean"/>
+</p>
+
 ---
 
 ## Beyond the Code
