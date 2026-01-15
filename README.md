@@ -85,12 +85,12 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/gRPC.svg" width="32" alt="gRPC"/>
+      <img src="assets/icons/gRPC.svg" width="45" alt="gRPC"/>
       <img src="assets/icons/graphQL.svg" width="32" alt="graphQL"/>
-      <img src="assets/icons/nginx.svg" width="32" alt="NGINX"/>
+      <img src="assets/icons/nginx.svg" width="45" alt="NGINX"/>
     </td>
     <td align="center">
-      <img src="assets/icons/nginx.svg" width="32" alt="NGINX"/>
+      <img src="assets/icons/nginx.svg" width="45" alt="NGINX"/>
     </td>
   </tr>
 </table>
