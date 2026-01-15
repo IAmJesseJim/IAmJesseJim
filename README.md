@@ -12,6 +12,13 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 - Windows
 - Kali Linux
 - Linux
+- 
+<p align="center">
+  <img src="assets/icons/apple.svg" width="42" alt="React"/>
+  <img src="assets/icons/windows.svg" width="42" alt="Python"/>
+  <img src="assets/icons/kaliLinux.svg" width="42" alt="Docker"/>
+  <img src="assets/icons/linux.svg" width="42" alt="GitHub"/>
+</p>
 
 **Languages:**
 - C
