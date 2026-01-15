@@ -52,12 +52,18 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 </p>
 
 **Web Servers:**
-- Apache HTTP Server
+
+<p align="center">
+  <img src="assets/icons/apache.svg" width="42" alt="Apache"/>
+</p>
 
 **Databases:**
-- Oracle (Enterprise)
-- PostgreSQL
-- MySQL
+
+<p align="center">
+  <img src="assets/icons/oracle.svg" width="42" alt="Oracle (Enterprise)"/>
+  <img src="assets/icons/postgresql.svg" width="42" alt="PostgreSQL"/>
+  <img src="assets/icons/mysql.svg" width="42" alt="MySQL"/>
+</p>
 
 **Cloud Platforms:**
 - Google Cloud
