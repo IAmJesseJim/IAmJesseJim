@@ -30,11 +30,13 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 </p>
 
 **Web Frameworks:**
-- Django (Backend Framework)
-- Flask (Backend Framework)
-- Spring (Backend Framework)
-  
-- Angular (Frontend Framework)
+
+<p align="center">
+  <img src="assets/icons/django.svg" width="42" alt="Django"/>
+  <img src="assets/icons/flask.svg" width="42" alt="Flask"/>
+  <img src="assets/icons/spring.svg" width="42" alt="Spring"/>
+  <img src="assets/icons/angular.svg" width="42" alt="Angular"/>
+</p>
 
 **Libraries:**
 - React
