@@ -99,7 +99,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/docker.svg" width="32" alt="Docker"/>
+      <img src="assets/icons/docker.svg" width="45" alt="Docker"/>
       <img src="assets/icons/kubernetes.svg" width="32" alt="Kubernetes"/>
     </td>
   </tr>
