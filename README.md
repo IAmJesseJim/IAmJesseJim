@@ -16,7 +16,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
     <td align="center">
       <img src="assets/icons/apple.svg" width="32" alt="macOS"/>
       <img src="assets/icons/windows.svg" width="32" alt="Windows"/>
-      <img src="assets/icons/kaliLinux.svg" width="32" alt="Kali Linux"/>
+      <img src="assets/icons/kaliLinux.svg" width="40" alt="Kali Linux"/>
       <img src="assets/icons/linux.svg" width="32" alt="Linux"/>
     </td>
     <td align="center">
