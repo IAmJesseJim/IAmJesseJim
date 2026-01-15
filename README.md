@@ -53,11 +53,11 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/glassfish.svg" width="32" alt="Oracle GlassFish Server"/>
+      <img src="assets/icons/glassfish.svg" width="45" alt="Oracle GlassFish Server"/>
       <img src="assets/icons/tomcat.svg" width="32" alt="Apache Tomcat"/>
     </td>
     <td align="center">
-      <img src="assets/icons/apache.svg" width="32" alt="Apache HTTP Server"/>
+      <img src="assets/icons/apache.svg" width="45" alt="Apache HTTP Server"/>
     </td>
   </tr>
 
@@ -73,7 +73,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
     </td>
     <td align="center">
       <img src="assets/icons/googleCloud.svg" width="32" alt="Google Cloud Platform"/>
-      <img src="assets/icons/aws.svg" width="32" alt="Amazon Web Services"/>
+      <img src="assets/icons/aws.svg" width="45" alt="Amazon Web Services"/>
       <img src="assets/icons/azure.svg" width="32" alt="Microsoft Azure"/>
       <img src="assets/icons/digitalOcean.svg" width="32" alt="DigitalOcean"/>
     </td>
