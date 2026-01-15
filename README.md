@@ -78,6 +78,21 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/digitalOcean.svg" width="32" alt="DigitalOcean"/>
     </td>
   </tr>
+
+  <tr>
+    <th>APIs</th>
+    <th>Load Balancers</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icons/gRPC.svg" width="32" alt="gRPC"/>
+      <img src="assets/icons/graphQL.svg" width="32" alt="graphQL"/>
+      <img src="assets/icons/nginx.svg" width="32" alt="NGINX"/>
+    </td>
+    <td align="center">
+      <img src="assets/icons/nginx.svg" width="32" alt="NGINX"/>
+    </td>
+  </tr>
 </table>
 
 
