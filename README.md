@@ -94,17 +94,15 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
     </td>
   </tr>
 
-  <tfoot>
   <tr>
     <th>DevOps</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/docker.svg" width="40" alt="Docker"/>
+      <img src="assets/icons/docker.svg" width="32" alt="Docker"/>
       <img src="assets/icons/kubernetes.svg" width="32" alt="Kubernetes"/>
     </td>
   </tr>
-  </tfoot>
 </table>
 
 
