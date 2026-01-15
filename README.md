@@ -16,7 +16,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
     <td align="center">
       <img src="assets/icons/apple.svg" width="32" alt="macOS"/>
       <img src="assets/icons/windows.svg" width="32" alt="Windows"/>
-      <img src="assets/icons/kaliLinux.svg" width="40" alt="Kali Linux"/>
+      <img src="assets/icons/kaliLinux.svg" width="45" alt="Kali Linux"/>
       <img src="assets/icons/linux.svg" width="32" alt="Linux"/>
     </td>
     <td align="center">
@@ -67,7 +67,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/oracle.svg" width="32" alt="Oracle Database"/>
+      <img src="assets/icons/oracle.svg" width="45" alt="Oracle Database"/>
       <img src="assets/icons/postgresql.svg" width="32" alt="PostgreSQL"/>
       <img src="assets/icons/mysql.svg" width="32" alt="MySQL"/>
     </td>
