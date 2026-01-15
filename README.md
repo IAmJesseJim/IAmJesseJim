@@ -10,21 +10,24 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 **Operating Environments:**
 
 <p align="center">
-  <img src="assets/icons/apple.svg" width="42" alt="React"/>
-  <img src="assets/icons/windows.svg" width="42" alt="Python"/>
-  <img src="assets/icons/kaliLinux.svg" width="42" alt="Docker"/>
-  <img src="assets/icons/linux.svg" width="42" alt="GitHub"/>
+  <img src="assets/icons/apple.svg" width="42" alt="macOS"/>
+  <img src="assets/icons/windows.svg" width="42" alt="Windows"/>
+  <img src="assets/icons/kaliLinux.svg" width="42" alt="Kali Linux"/>
+  <img src="assets/icons/linux.svg" width="42" alt="Linux"/>
 </p>
 
 **Languages:**
-- C
-- C++
-- C#
-- Java
-- Python
-- JavaScript
-- PHP
-- Swift
+
+<p align="center">
+  <img src="assets/icons/C.svg" width="42" alt="C"/>
+  <img src="assets/icons/C++.svg" width="42" alt="C++"/>
+  <img src="assets/icons/C#.svg" width="42" alt="C#"/>
+  <img src="assets/icons/Java.svg" width="42" alt="Java"/>
+  <img src="assets/icons/Python.svg" width="42" alt="Python"/>
+  <img src="assets/icons/JavaScript.svg" width="42" alt="JavaScript"/>
+  <img src="assets/icons/PHP.svg" width="42" alt="PHP"/>
+  <img src="assets/icons/Swift.svg" width="42" alt="Swift"/>
+</p>
 
 **Web Frameworks:**
 - Django (Backend Framework)
