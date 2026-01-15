@@ -21,7 +21,7 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 <p align="center">
   <img src="assets/icons/C.svg" width="42" alt="C"/>
   <img src="assets/icons/C++.svg" width="42" alt="C++"/>
-  <img src="assets/icons/C#.svg" width="42" alt="C#"/>
+  <img src="assets/icons/CS.svg" width="42" alt="C#"/>
   <img src="assets/icons/Java.svg" width="42" alt="Java"/>
   <img src="assets/icons/Python.svg" width="42" alt="Python"/>
   <img src="assets/icons/JavaScript.svg" width="42" alt="JavaScript"/>
