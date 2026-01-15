@@ -94,6 +94,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
     </td>
   </tr>
 
+  <tfoot>
   <tr>
     <th>DevOps</th>
   </tr>
@@ -103,6 +104,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/kubernetes.svg" width="32" alt="Kubernetes"/>
     </td>
   </tr>
+  </tfoot>
 </table>
 
 
