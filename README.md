@@ -66,9 +66,6 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 </p>
 
 **Cloud Platforms:**
-- Google Cloud
-- AWS
-- Digital Ocean
 
 <p align="center">
   <img src="assets/icons/googleCloud.svg" width="42" alt="Google Cloud Platform"/>
