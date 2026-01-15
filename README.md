@@ -7,72 +7,79 @@ I am a passionate software engineer adept at crafting E2E enterprise solutions a
 
 ## Tech Stack
 
-**Operating Environments:**
+<table align="center">
+  <tr>
+    <th>Operating Environments</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icons/apple.svg" width="32" alt="macOS"/>
+      <img src="assets/icons/windows.svg" width="32" alt="Windows"/>
+      <img src="assets/icons/kaliLinux.svg" width="32" alt="Kali Linux"/>
+      <img src="assets/icons/linux.svg" width="32" alt="Linux"/>
+    </td>
+    <td align="center">
+      <img src="assets/icons/C.svg" width="32" alt="C"/>
+      <img src="assets/icons/C++.svg" width="32" alt="C++"/>
+      <img src="assets/icons/CS.svg" width="32" alt="C#"/>
+      <img src="assets/icons/Java.svg" width="32" alt="Java"/>
+      <img src="assets/icons/Python.svg" width="32" alt="Python"/>
+      <img src="assets/icons/JavaScript.svg" width="32" alt="JavaScript"/>
+      <img src="assets/icons/PHP.svg" width="32" alt="PHP"/>
+      <img src="assets/icons/Swift.svg" width="32" alt="Swift"/>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="assets/icons/apple.svg" width="42" alt="macOS"/>
-  <img src="assets/icons/windows.svg" width="42" alt="Windows"/>
-  <img src="assets/icons/kaliLinux.svg" width="42" alt="Kali Linux"/>
-  <img src="assets/icons/linux.svg" width="42" alt="Linux"/>
-</p>
+  <tr>
+    <th>Web Frameworks</th>
+    <th>Libraries</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icons/django.svg" width="32" alt="Django"/>
+      <img src="assets/icons/flask.svg" width="32" alt="Flask"/>
+      <img src="assets/icons/spring.svg" width="32" alt="Spring"/>
+      <img src="assets/icons/angular.svg" width="32" alt="Angular"/>
+    </td>
+    <td align="center">
+      <img src="assets/icons/react.svg" width="32" alt="React"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <th>Application Servers</th>
+    <th>Web Servers</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icons/glassfish.svg" width="32" alt="Oracle GlassFish Server"/>
+      <img src="assets/icons/tomcat.svg" width="32" alt="Apache Tomcat"/>
+    </td>
+    <td align="center">
+      <img src="assets/icons/apache.svg" width="32" alt="Apache HTTP Server"/>
+    </td>
+  </tr>
 
-**Languages:**
+  <tr>
+    <th>Databases</th>
+    <th>Cloud Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icons/oracle.svg" width="32" alt="Oracle Database"/>
+      <img src="assets/icons/postgresql.svg" width="32" alt="PostgreSQL"/>
+      <img src="assets/icons/mysql.svg" width="32" alt="MySQL"/>
+    </td>
+    <td align="center">
+      <img src="assets/icons/googleCloud.svg" width="32" alt="Google Cloud Platform"/>
+      <img src="assets/icons/aws.svg" width="32" alt="Amazon Web Services"/>
+      <img src="assets/icons/azure.svg" width="32" alt="Microsoft Azure"/>
+      <img src="assets/icons/digitalOcean.svg" width="32" alt="DigitalOcean"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="assets/icons/C.svg" width="42" alt="C"/>
-  <img src="assets/icons/C++.svg" width="42" alt="C++"/>
-  <img src="assets/icons/CS.svg" width="42" alt="C#"/>
-  <img src="assets/icons/Java.svg" width="42" alt="Java"/>
-  <img src="assets/icons/Python.svg" width="42" alt="Python"/>
-  <img src="assets/icons/JavaScript.svg" width="42" alt="JavaScript"/>
-  <img src="assets/icons/PHP.svg" width="42" alt="PHP"/>
-  <img src="assets/icons/Swift.svg" width="42" alt="Swift"/>
-</p>
-
-**Web Frameworks:**
-
-<p align="center">
-  <img src="assets/icons/django.svg" width="42" alt="Django"/>
-  <img src="assets/icons/flask.svg" width="42" alt="Flask"/>
-  <img src="assets/icons/spring.svg" width="42" alt="Spring"/>
-  <img src="assets/icons/angular.svg" width="42" alt="Angular"/>
-</p>
-
-**Libraries:**
-
-<p align="center">
-  <img src="assets/icons/react.svg" width="42" alt="React"/>
-</p>
-
-**Application Servers:**
-
-<p align="center">
-  <img src="assets/icons/glassfish.svg" width="42" alt="Oracle GlassFish Server"/>
-  <img src="assets/icons/tomcat.svg" width="42" alt="Tomcat"/>
-</p>
-
-**Web Servers:**
-
-<p align="center">
-  <img src="assets/icons/apache.svg" width="42" alt="Apache"/>
-</p>
-
-**Databases:**
-
-<p align="center">
-  <img src="assets/icons/oracle.svg" width="42" alt="Oracle (Enterprise)"/>
-  <img src="assets/icons/postgresql.svg" width="42" alt="PostgreSQL"/>
-  <img src="assets/icons/mysql.svg" width="42" alt="MySQL"/>
-</p>
-
-**Cloud Platforms:**
-
-<p align="center">
-  <img src="assets/icons/googleCloud.svg" width="42" alt="Google Cloud Platform"/>
-  <img src="assets/icons/aws.svg" width="42" alt="Amazon Web Services"/>
-  <img src="assets/icons/azure.svg" width="42" alt="Azure"/>
-  <img src="assets/icons/digitalOcean.svg" width="42" alt="Digital Ocean"/>
-</p>
 
 ---
 
