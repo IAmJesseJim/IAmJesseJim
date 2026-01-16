@@ -74,7 +74,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/mysql.svg" width="32" alt="MySQL"/>
     </td>
     <td align="center">
-      <img src="assets/icons/googleCloud.svg" width="35" alt="Google Cloud Platform"/>
+      <img src="assets/icons/googleCloud.svg" width="50" alt="Google Cloud Platform"/>
       <img src="assets/icons/aws.svg" width="45" alt="Amazon Web Services"/>
       <img src="assets/icons/azure.svg" width="32" alt="Microsoft Azure"/>
       <img src="assets/icons/digitalOcean.svg" width="32" alt="DigitalOcean"/>
