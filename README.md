@@ -8,7 +8,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
     <img src="assets/badges/linkedIn.svg" alt="LinkedIn"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://medium.com/@jessejim/" target="_blank">
     <img src="assets/badges/medium.svg" alt="Medium"/>
   </a>
 
