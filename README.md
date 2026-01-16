@@ -3,6 +3,20 @@
 ## About Me
 I am a passionate software engineer at [iTechie 360](https://github.com/iTechie360/) adept at crafting E2E enterprise solutions across the vast technology ecosystem, encompassing web, mobile, and desktop environments. My expertise spans various industry domains, and I specialize in harnessing diverse technologies to bridge the gaps between platforms, fostering seamless user experiences and delivering impactful results.
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/iamjessejim/" target="_blank">
+    <img src="assets/badges/linkedIn.svg" alt="LinkedIn"/>
+  </a>
+
+  <a href="" target="_blank">
+    <img src="assets/badges/medium.svg" alt="Medium"/>
+  </a>
+
+  <a href="" target="_blank">
+    <img src="assets/badges/stackOverflow.svg" alt="Stack Overflow"/>
+  </a>
+</div>
+
 ---
 
 ## Tech Stack
