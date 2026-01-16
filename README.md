@@ -45,6 +45,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
     </td>
     <td align="center">
       <img src="assets/icons/react.svg" width="32" alt="React"/>
+      <img src="assets/icons/jQuery.svg" width="32" alt="jQuery"/>
     </td>
   </tr>
   
