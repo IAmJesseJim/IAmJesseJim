@@ -92,7 +92,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/nginx.svg" width="45" alt="NGINX"/>
     </td>
     <td align="center">
-      <img src="assets/icons/nginx.svg" width="45" alt="NGINX"/>
+      <img src="assets/icons/nginxIcon.svg" width="45" alt="NGINX"/>
     </td>
   </tr>
 
