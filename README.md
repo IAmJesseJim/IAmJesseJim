@@ -68,7 +68,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/oracle.svg" width="60" alt="Oracle Database"/>
+      <img src="assets/icons/oracle.svg" width="32" alt="Oracle Database"/>
       <img src="assets/icons/postgresql.svg" width="32" alt="PostgreSQL"/>
       <img src="assets/icons/mysql.svg" width="32" alt="MySQL"/>
     </td>
