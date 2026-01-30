@@ -88,6 +88,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/aws.svg" width="45" alt="Amazon Web Services"/>
       <img src="assets/icons/azure.svg" width="32" alt="Microsoft Azure"/>
       <img src="assets/icons/digitalOcean.svg" width="32" alt="DigitalOcean"/>
+      <img src="assets/icons/vercel.svg" width="32" alt="Vercel"/>
     </td>
   </tr>
 
