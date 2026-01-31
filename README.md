@@ -121,6 +121,16 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/nginx.svg" width="45" alt="NGINX"/>
     </td>
   </tr>
+  <tr>
+    <th>IDEs</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icons/Xcode.svg" width="45" alt="Xcode"/>
+      <img src="assets/icons/visualStudio.svg" width="32" alt="Visual Studio"/>
+      <img src="assets/icons/visualStudioCode.svg" width="45" alt="Visual Studio Code"/>
+    </td>
+  </tr>
 </table>
 
 ---
