@@ -40,6 +40,39 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/Swift.svg" width="32" alt="Swift"/>
     </td>
   </tr>
+  
+  <tr>
+    <th>Cloud Platforms</th>
+    <th>DevOps</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icons/googleCloud.svg" width="40" alt="Google Cloud Platform"/>
+      <img src="assets/icons/aws.svg" width="45" alt="Amazon Web Services"/>
+      <img src="assets/icons/azure.svg" width="32" alt="Microsoft Azure"/>
+      <img src="assets/icons/digitalOcean.svg" width="32" alt="DigitalOcean"/>
+      <img src="assets/icons/vercel.svg" width="32" alt="Vercel"/>
+    </td>
+    <td align="center">
+      <img src="assets/icons/docker.svg" width="32" alt="Docker"/>
+      <img src="assets/icons/kubernetes.svg" width="32" alt="Kubernetes"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th>App Servers</th>
+    <th>Web Servers</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="assets/icons/glassfish.svg" width="45" alt="Oracle GlassFish Server"/>
+      <img src="assets/icons/tomcat.svg" width="32" alt="Apache Tomcat"/>
+    </td>
+    <td align="center">
+      <img src="assets/icons/apache.svg" width="45" alt="Apache HTTP Server"/>
+    </td>
+  </tr>
 
   <tr>
     <th>Web Frameworks</th>
@@ -57,10 +90,10 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/Ionic.svg" width="32" alt="Ionic"/>
     </td>
   </tr>
-  
+  ---------
   <tr>
     <th>Libraries</th>
-    <th>Application Servers</th>
+    <th>Databases</th>
   </tr>
   <tr>
     <td align="center">
@@ -68,56 +101,24 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/jQuery.svg" width="33" alt="jQuery"/>
     </td>
     <td align="center">
-      <img src="assets/icons/glassfish.svg" width="45" alt="Oracle GlassFish Server"/>
-      <img src="assets/icons/tomcat.svg" width="32" alt="Apache Tomcat"/>
-    </td>
-  </tr>
-
-  <tr>
-    <th>Web Servers</th>
-    <th>Databases</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/icons/apache.svg" width="45" alt="Apache HTTP Server"/>
-    </td>
-    <td align="center">
       <img src="assets/icons/oracle.svg" width="32" alt="Oracle Database"/>
       <img src="assets/icons/postgresql.svg" width="32" alt="PostgreSQL"/>
       <img src="assets/icons/mysql.svg" width="32" alt="MySQL"/>
     </td>
   </tr>
-
-  <tr>
-    <th>Cloud Platforms</th>
-    <th>APIs</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/icons/googleCloud.svg" width="40" alt="Google Cloud Platform"/>
-      <img src="assets/icons/aws.svg" width="45" alt="Amazon Web Services"/>
-      <img src="assets/icons/azure.svg" width="32" alt="Microsoft Azure"/>
-      <img src="assets/icons/digitalOcean.svg" width="32" alt="DigitalOcean"/>
-      <img src="assets/icons/vercel.svg" width="32" alt="Vercel"/>
-    </td>
-    <td align="center">
-      <img src="assets/icons/gRPC.svg" width="45" alt="gRPC"/>
-      <img src="assets/icons/graphQL.svg" width="32" alt="graphQL"/>
-      <img src="assets/icons/nginx.svg" width="45" alt="NGINX"/>
-    </td>
-  </tr>
-
+  
   <tr>
     <th>Load Balancers</th>
-    <th>DevOps</th>
+    <th>APIs</th>
   </tr>
   <tr>
     <td align="center">
       <img src="assets/icons/nginxIcon.svg" width="45" alt="NGINX"/>
     </td>
     <td align="center">
-      <img src="assets/icons/docker.svg" width="32" alt="Docker"/>
-      <img src="assets/icons/kubernetes.svg" width="32" alt="Kubernetes"/>
+      <img src="assets/icons/gRPC.svg" width="45" alt="gRPC"/>
+      <img src="assets/icons/graphQL.svg" width="32" alt="graphQL"/>
+      <img src="assets/icons/nginx.svg" width="45" alt="NGINX"/>
     </td>
   </tr>
 </table>
