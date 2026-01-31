@@ -87,7 +87,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/flask.svg" width="32" alt="Flask"/>
     </td>
     <td align="center">
-      <img src="assets/icons/Ionic.svg" alt="Ionic"/>
+      <img src="assets/icons/Ionic.svg" width="62" alt="Ionic"/>
     </td>
   </tr>
   
