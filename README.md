@@ -121,6 +121,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/nginx.svg" width="45" alt="NGINX"/>
     </td>
   </tr>
+  
   <tr>
     <th>IDEs</th>
   </tr>
