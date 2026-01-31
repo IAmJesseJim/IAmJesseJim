@@ -90,7 +90,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/Ionic.svg" width="32" alt="Ionic"/>
     </td>
   </tr>
-  ---------
+  
   <tr>
     <th>Libraries</th>
     <th>Databases</th>
