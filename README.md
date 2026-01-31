@@ -113,7 +113,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/nginxIcon.svg" width="45" alt="NGINX"/>
+      <img src="assets/icons/nginxIcon.svg" width="40" alt="NGINX"/>
     </td>
     <td align="center">
       <img src="assets/icons/gRPC.svg" width="45" alt="gRPC"/>
