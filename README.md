@@ -98,7 +98,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   <tr>
     <td align="center">
       <img src="assets/icons/react.svg" width="32" alt="React"/>
-      <img src="assets/icons/jQuery.svg" width="33" alt="jQuery"/>
+      <img src="assets/icons/jQuery.svg" width="45" alt="jQuery"/>
     </td>
     <td align="center">
       <img src="assets/icons/oracle.svg" width="32" alt="Oracle Database"/>
