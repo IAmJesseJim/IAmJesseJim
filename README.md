@@ -54,7 +54,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/nextJS.svg" width="32" alt="Next.js"/>
     </td>
     <td align="center">
-      <img src="assets/icons/ionic.svg" width="32" alt="Ionic"/>
+      <img src="assets/icons/Ionic.svg" width="32" alt="Ionic"/>
     </td>
   </tr>
   
