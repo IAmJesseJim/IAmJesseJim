@@ -131,6 +131,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
       <img src="assets/icons/Xcode.svg" width="32" alt="Xcode"/>
       <img src="assets/icons/visualStudio.svg" width="32" alt="Visual Studio"/>
       <img src="assets/icons/visualStudioCode.svg" width="32" alt="Visual Studio Code"/>
+      <img src="assets/icons/cursor.svg" width="32" alt="Cursor"/>
     </td>
     <td align="center">
       <img src="assets/icons/Notion.svg" width="82" alt="Notion"/>
