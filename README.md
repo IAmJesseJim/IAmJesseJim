@@ -80,7 +80,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/angular.gif" width="32" alt="Angular"/>
+      <img src="assets/icons/angular.svg" width="32" alt="Angular"/>
       <img src="assets/icons/nextJS.svg" width="32" alt="Next.js"/>
       <img src="assets/icons/spring.svg" width="32" alt="Spring"/>
       <img src="assets/icons/django.svg" width="32" alt="Django"/>
