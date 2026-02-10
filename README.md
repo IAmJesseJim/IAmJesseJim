@@ -25,7 +25,7 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   <tr>
     <td align="center">
       <img src="assets/icons/apple.svg" width="32" alt="macOS"/>
-      <img src="assets/icons/Windows.svg" width="32" alt="Windows"/>
+      <img src="assets/icons/windows.svg" width="32" alt="Windows"/>
       <img src="assets/icons/kaliLinux.svg" width="50" alt="Kali Linux"/>
       <img src="assets/icons/linux.svg" width="35" alt="Linux"/>
     </td>
