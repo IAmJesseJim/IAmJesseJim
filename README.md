@@ -1,7 +1,7 @@
 # Welcome to My GitHub
 
 ## About Me
-I am a passionate software engineer at [iTechie 360](https://github.com/iTechie360/) adept at crafting E2E startup and enterprise solutions across vast ecosystems encompassing web, mobile, & desktop clients. My expertise spans various industry domains, and I harness diverse technologies both legacy and emerging to bridge gaps among these platforms, fostering seamless user experiences and delivering impactful results.
+I am a passionate software engineer at [iTechie 360](https://github.com/iTechie360/) adept at crafting E2E startup and enterprise solutions across vast ecosystems encompassing web, mobile, and desktop clients. My expertise spans various industry domains, and I harness diverse technologies both legacy and emerging to bridge gaps among these platforms, fostering seamless user experiences and delivering impactful results.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iamjessejim/" target="_blank">
