@@ -147,7 +147,7 @@ Technology isn't my only muse. As an all-round artist, I express myself through:
 - **Music:** Singing and rapping.
 - **Visual Arts:** Painting, drawing, calligraphy, graffiti, and photography.
 
-In essence, I am a techie with an artist's soul and an artist with an engineer's mind.
+In essence, I am a techie with an artist's soul and an artist with an engineer's mind with strong cognitive integration of my right and left brain hemispheres.
 
 ---
 
