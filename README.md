@@ -24,10 +24,10 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/icons/apple.svg" width="32" alt="macOS"/>
-      <img src="assets/icons/windows.svg" width="32" alt="Windows"/>
+      <img src="assets/icons/macOS.png" width="32" alt="macOS"/>
+      <img src="assets/icons/windows.png" width="32" alt="Windows"/>
       <img src="assets/icons/kaliLinux.svg" width="50" alt="Kali Linux"/>
-      <img src="assets/icons/linux.svg" width="35" alt="Linux"/>
+      <img src="assets/icons/Linux.png" width="35" alt="Linux"/>
     </td>
     <td align="center">
       <img src="assets/icons/C.svg" width="32" alt="C"/>
