@@ -152,5 +152,5 @@ In essence, I am a techie with an artist's soul and an artist with an engineer's
 
 ---
 
-Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me to collaborate or share ideas.
+Thank you for visiting my GitHub. Feel free to explore my repositories and connect with me to collaborate or share ideas.
 
