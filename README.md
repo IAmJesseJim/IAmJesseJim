@@ -11,6 +11,10 @@ I am a passionate software engineer at [iTechie 360](https://github.com/iTechie3
   <a href="https://medium.com/@jessejim/" target="_blank">
     <img src="assets/badges/medium.svg" alt="Medium"/>
   </a>
+
+  <a href="https://jessejim.blogspot.com" target="_blank">
+    <img src="assets/badges/Blogger.svg" alt="Medium"/>
+  </a>
 </div>
 
 ---
