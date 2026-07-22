@@ -133,6 +133,7 @@ Software Engineer at [iTechie 360](https://github.com/iTechie360/) adept at craf
   <tr>
     <td align="center">
       <img src="assets/icons/Xcode.svg" width="32" alt="Xcode"/>
+      <img src="assets/icons/AndroidStudio.svg" width="32" alt="Xcode"/>
       <img src="assets/icons/visualStudio.svg" width="32" alt="Visual Studio"/>
       <img src="assets/icons/visualStudioCode.svg" width="32" alt="Visual Studio Code"/>
       <img src="assets/icons/cursor.svg" width="28" alt="Cursor"/>
