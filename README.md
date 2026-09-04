@@ -108,7 +108,7 @@ Software Engineer at [iTechie 360](https://github.com/iTechie360/) adept at craf
       <img src="assets/icons/oracle.svg" width="32" alt="Oracle Database"/>
       <img src="assets/icons/postgresql.svg" width="32" alt="PostgreSQL"/>
       <img src="assets/icons/mysql.svg" width="32" alt="MySQL"/>
-      <img src="assets/icons/neon.svg" width="50" alt="Neon"/>
+      <img src="assets/icons/neon.svg" width="90" alt="Neon"/>
     </td>
   </tr>
   
